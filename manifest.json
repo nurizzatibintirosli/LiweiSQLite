@@ -1,0 +1,23 @@
+{
+  "name": "Liwei Food Truck",
+  "short_name": "LiweiFT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008CFF",
+  "description": "Sistem pengurusan jualan Liwei Food Truck",
+  "orientation": "portrait",
+  "id": "liwei-food-truck",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
